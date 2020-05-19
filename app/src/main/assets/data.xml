@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<routeInfoes>
+    <Route>
+        <Id>Metro_1</Id>
+        <RouteNumber>I ხაზი (ახმეტელი/ვარკეთილი)</RouteNumber>
+        <StopA>მ/ს ახმეტელის თეატრი</StopA>
+        <StopB>მ/ს ვარკეთილი</StopB>
+        <Type>metro</Type>
+    </Route>
+    <Route>
+        <Id>Metro_2</Id>
+        <RouteNumber>საბურთალოს ხაზი</RouteNumber>
+        <StopA>მ/ს ვაგზლის მოედანი 2</StopA>
+        <StopB>მ/ს სახელმწიფო უნივერსიტეტი</StopB>
+        <Type>metro</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215833</Id>
+        <LongName>ლილო-ლოჭინი - მ/ს ისანი</LongName>
+        <RouteNumber>1</RouteNumber>
+        <StopA>მ/ს "ისანი"</StopA>
+        <StopB>ლილო-ლოჭინი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R217067</Id>
+        <LongName>ქიზიყის ქ. - ბარათაშვილის ქ. (კონკა)</LongName>
+        <RouteNumber>2</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>ქიზიყის ქ. </StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215839</Id>
+        <LongName>მ/ს "ახმეტელის თეატრი" - პაიჭაძის ქ. (დიღომი)</LongName>
+        <RouteNumber>3</RouteNumber>
+        <StopA>პაიჭაძის ქ. (დიღომი)</StopA>
+        <StopB>მ/ს "ახმეტელის თეატრი"</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215842</Id>
+        <LongName>წავკისი - ბარათაშვილის ქ.</LongName>
+        <RouteNumber>4</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>წავკისი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215845</Id>
+        <LongName>წყნეთი - მ/ს "დელისი"</LongName>
+        <RouteNumber>5</RouteNumber>
+        <StopA>მ/ს დელისი</StopA>
+        <StopB>წყნეთი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215848</Id>
+        <LongName>ბარათაშვილის ქ. - პოლიტკოვსკაიას ქ.</LongName>
+        <RouteNumber>6</RouteNumber>
+        <StopA>პოლიტკოვსკაიას ქ.</StopA>
+        <StopB>ბარათაშვილის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215851</Id>
+        <LongName>სოფ. დიღომი - მ/ს დიდუბე</LongName>
+        <RouteNumber>7</RouteNumber>
+        <StopA>მ/ს დიდუბე</StopA>
+        <StopB>სოფ. დიღომი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215854</Id>
+        <LongName>აეროპორტი - მ/ს ისანი</LongName>
+        <RouteNumber>8</RouteNumber>
+        <StopA>მ/ს "ისანი"</StopA>
+        <StopB>აეროპორტი $A</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215857</Id>
+        <LongName>სადგურის მოედანი - ვაკე-ბაგები</LongName>
+        <RouteNumber>9</RouteNumber>
+        <StopA>ვაკე-ბაგები</StopA>
+        <StopB>სადგურის მოედანი 1</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215860</Id>
+        <LongName>კოჯორი - ბარათაშვილის ქ.</LongName>
+        <RouteNumber>10</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>კოჯორი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215863</Id>
+        <LongName>ზაჰესი - ეროვნული სტადიონი</LongName>
+        <RouteNumber>11</RouteNumber>
+        <StopA>ეროვნული სტადიონი</StopA>
+        <StopB>ზაჰესი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215866</Id>
+        <LongName>დიდი ლილო - მ/ს ისანი</LongName>
+        <RouteNumber>12</RouteNumber>
+        <StopA>მ/ს "ისანი"</StopA>
+        <StopB>დიდი ლილო</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215869</Id>
+        <LongName>მ/ს დელისი - სახ. უნივერსიტეტის მ/კ</LongName>
+        <RouteNumber>13</RouteNumber>
+        <StopA>სახ.უნივერსიტეტის მ/კ</StopA>
+        <StopB>მ/ს დელისი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215872</Id>
+        <LongName>დიდი დიღმის IV მ/რ - ბარათაშვილის ქ.</LongName>
+        <RouteNumber>14</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>დიდი დიღმის IV მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215875</Id>
+        <LongName>დიდი დიღმის IV მ/რ - სადგურის მოედანი</LongName>
+        <RouteNumber>15</RouteNumber>
+        <StopA>სადგურის მოედანი 1</StopA>
+        <StopB>დიდი დიღმის IV მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R217144</Id>
+        <LongName>სოფ. თელოვანი - მ/ს დიდუბე</LongName>
+        <RouteNumber>16</RouteNumber>
+        <StopA>მ/ს დიდუბე</StopA>
+        <StopB>სოფ. თელოვანი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215878</Id>
+        <LongName>მუხიანის IV ბ მ/რ - გადასასვლელი ხიდი</LongName>
+        <RouteNumber>17</RouteNumber>
+        <StopA>გადასასვლელი ხიდი</StopA>
+        <StopB>მუხიანის IV ბ მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215884</Id>
+        <LongName>პატარა ლილო - მ/ს ისანი</LongName>
+        <RouteNumber>18</RouteNumber>
+        <StopA>მ/ს "ისანი"</StopA>
+        <StopB>პატარა ლილო</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215881</Id>
+        <LongName>ზემო ფონიჭალა - ვაზისუბნის II მ/რ</LongName>
+        <RouteNumber>19</RouteNumber>
+        <StopA>ვაზისუბნის II მ/რ</StopA>
+        <StopB>ზემო ფონიჭალა</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215890</Id>
+        <LongName>დიღმის მასივი - ბარათაშვილის ქ,</LongName>
+        <RouteNumber>20</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>დიღმის მასივი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215887</Id>
+        <LongName>დიდი დიღმის IV მ/რ - სახ.უნივერსიტეტის მ/კ</LongName>
+        <RouteNumber>21</RouteNumber>
+        <StopA>სახ.უნივერსიტეტის მ/კ</StopA>
+        <StopB>დიდი დიღმის IV მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215905</Id>
+        <LongName>სოფელი ნასაგური - მ/ს ისანი</LongName>
+        <RouteNumber>22</RouteNumber>
+        <StopA>მ/ს "ისანი"</StopA>
+        <StopB>სოფ. ნასაგური</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215902</Id>
+        <LongName>გლდანის VII-VIII მ/რ - ბარათაშვილის ქუჩა</LongName>
+        <RouteNumber>23</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>გლდანის VII-VIII მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215911</Id>
+        <LongName>გლდანის VII - VIII მ/რ - სახ. უნივერსიტეტის მ/კ</LongName>
+        <RouteNumber>24</RouteNumber>
+        <StopA>სახ.უნივერსიტეტის მ/კ</StopA>
+        <StopB>გლდანის VII-VIII მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215908</Id>
+        <LongName>ვაზისუბნის II მ/რ - ბარათაშვილის ქ . (კონკა)</LongName>
+        <RouteNumber>25</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>ვაზისუბნის II მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215893</Id>
+        <LongName>მ/ს "დიდუბე" (ქვედა) - ზურგოვანა</LongName>
+        <RouteNumber>26</RouteNumber>
+        <StopA>ზურგოვანა</StopA>
+        <StopB>მ/ს დიდუბე (ქვედა)</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215914</Id>
+        <LongName>ვაშლიჯვრის დასახლება - სადგურის მოედანი</LongName>
+        <RouteNumber>27</RouteNumber>
+        <StopA>სადგურის მოედანი 2</StopA>
+        <StopB>ვაშლიჯვრის დასახლება</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215920</Id>
+        <LongName>მნათობის ქ. - მარჯანიშვილის მ-ნი</LongName>
+        <RouteNumber>28</RouteNumber>
+        <StopA>მარჯანიშვილი მ-ნი</StopA>
+        <StopB>მნათობის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215917</Id>
+        <LongName>სადგურის მოედანი - სოფ. თხინვალი</LongName>
+        <RouteNumber>29</RouteNumber>
+        <StopA>სოფ. თხინვალი</StopA>
+        <StopB>სადგურის მოედანი 2</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215926</Id>
+        <LongName>ქიზიყის ქ. - მ/ს "ისანი"</LongName>
+        <RouteNumber>30</RouteNumber>
+        <StopA>მ/ს "ისანი"</StopA>
+        <StopB>ქიზიყის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215923</Id>
+        <LongName>კრწანისის დასახლება - სადგურის მოედანი</LongName>
+        <RouteNumber>31</RouteNumber>
+        <StopA>სადგურის მოედანი 1</StopA>
+        <StopB>კრწანისის დასახლება</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215932</Id>
+        <LongName>გლდანი VII - VIII მ/რ - დიდი დიღომი IV მ/რ</LongName>
+        <RouteNumber>32</RouteNumber>
+        <StopA>დიდი დიღმის IV მ/რ</StopA>
+        <StopB>გლდანის VII-VIII მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215935</Id>
+        <LongName>გლდანის VII-VIII მ/კ - ბარათაშვილის ქ.</LongName>
+        <RouteNumber>33</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>გლდანის VII-VIII მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215929</Id>
+        <LongName>სადგურის მოედანი - წყნეთი</LongName>
+        <RouteNumber>34</RouteNumber>
+        <StopA>წყნეთი</StopA>
+        <StopB>სადგურის მოედანი 1</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215896</Id>
+        <LongName>ზღვის უბანი II მ/რ - რკინიგზის გადასასვლელი ხიდი</LongName>
+        <RouteNumber>35</RouteNumber>
+        <StopA>გადასასვლელი ხიდი</StopA>
+        <StopB>ზღვის უბანი II მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215944</Id>
+        <LongName>ავიაქიმიის ქ. (ლოტკინი) - გადასასვლელი ხიდი</LongName>
+        <RouteNumber>36</RouteNumber>
+        <StopA>გადასასვლელი ხიდი</StopA>
+        <StopB>ავიაქიმიის ქ.(ლოტკინი)</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215947</Id>
+        <LongName>სადგურის მოედანი - აეროპორტი</LongName>
+        <RouteNumber>37</RouteNumber>
+        <StopA>აეროპორტი $A</StopA>
+        <StopB>სადგურის მოედანი 1</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215938</Id>
+        <LongName>მ/ს დიდუბე (ქვედა) - აგრარული უნივერსიტეტი</LongName>
+        <RouteNumber>38</RouteNumber>
+        <StopA>აგრარული უნივერსიტეტი</StopA>
+        <StopB>მ/ს დიდუბე (ქვედა)</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215941</Id>
+        <LongName>ვარკეთილის IV მ/რ - ბარათაშვილის ქ . (კონკა)</LongName>
+        <RouteNumber>39</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>ვარკეთილის IV მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215956</Id>
+        <LongName>ვარკეთილის მეურნეობა - ექიმის გასასვლელი (ისანი)</LongName>
+        <RouteNumber>40</RouteNumber>
+        <StopA>ექიმის გასასვლელი (ისანი)</StopA>
+        <StopB>ვარკეთილის მეურნეობა</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215959</Id>
+        <LongName>სოფელი წინუბანი - მ/ს ისანი</LongName>
+        <RouteNumber>41</RouteNumber>
+        <StopA>მ/ს "ისანი"</StopA>
+        <StopB>სოფ. წინუბანი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215950</Id>
+        <LongName>იყალთოს გორა - ბარათაშვილის ქ.</LongName>
+        <RouteNumber>42</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>იყალთოს გორა</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215953</Id>
+        <LongName>
+            ყვარელის ქ. (მეტრომშენი) - ბარათაშვილის ქ . (კონკა)
+        </LongName>
+        <RouteNumber>43</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>ყვარელის ქ. (მეტრომშ.)</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215968</Id>
+        <LongName>
+            ზემო ფონიჭალის დასახლება - ბარათაშვილის ქ . (კონკა)
+        </LongName>
+        <RouteNumber>44</RouteNumber>
+        <StopA>ბარათაშვილის ქ . </StopA>
+        <StopB>ზემო ფონიჭალის დასახლება</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215971</Id>
+        <LongName>სოფელი გლდანი - მ/ს "ახმეტელის თეატრი"</LongName>
+        <RouteNumber>45</RouteNumber>
+        <StopA>მ/ს "ახმეტელის თეატრი"</StopA>
+        <StopB>სოფელი გლდანი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215962</Id>
+        <LongName>ბელიაშვილის ქ. (დიღომი) - მ/ს "ავლაბარი"</LongName>
+        <RouteNumber>46</RouteNumber>
+        <StopA>მ/ს ავლაბარი</StopA>
+        <StopB>ბელიაშვილის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215965</Id>
+        <LongName>ნუცუბიძის I მ/რ - სადგურის მოედანი</LongName>
+        <RouteNumber>47</RouteNumber>
+        <StopA>სადგურის მოედანი 2</StopA>
+        <StopB>ნუცუბიძის I მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215977</Id>
+        <LongName>ჟღენტის ქ. - გადასასვლელი ხიდი</LongName>
+        <RouteNumber>48</RouteNumber>
+        <StopA>გადასასვლელი ხიდი</StopA>
+        <StopB>ჟღენტის ქ. </StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215986</Id>
+        <LongName>ნუცუბიძის პლატო III მ/რ - სადგურის მოედანი</LongName>
+        <RouteNumber>49</RouteNumber>
+        <StopA>სადგურის მოედანი 1</StopA>
+        <StopB>ნუცუბიძის პლატო III მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215974</Id>
+        <LongName>
+            თბილისის ზღვის პლაზა - ვაზისუბნის III მ/რ, II კვ. - ბარათაშვილის ქ. (კონკა)
+        </LongName>
+        <RouteNumber>50</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>ვაზისუბნის III მ/რ, II კვ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215983</Id>
+        <LongName>გლდანი-გლდანულა - ვაკე-ბაგები</LongName>
+        <RouteNumber>51</RouteNumber>
+        <StopA>ვაკე-ბაგები</StopA>
+        <StopB>გლდანი-გლდანულა</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215980</Id>
+        <LongName>დოლიძის ქ - ბარათაშვილის ქ</LongName>
+        <RouteNumber>52</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>დოლიძის ქუჩა</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215995</Id>
+        <LongName>კუკია - სადგურის მოედანი</LongName>
+        <RouteNumber>53</RouteNumber>
+        <StopA>სადგურის მოედანი 1</StopA>
+        <StopB>ციაშის ქ. (კუკია)</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R217405</Id>
+        <LongName>დიდი დიღომი IVმკ/რ - სახ. უნივერსიტეტის მ/კ</LongName>
+        <RouteNumber>54</RouteNumber>
+        <StopA>სახ.უნივერსიტეტის მ/კ</StopA>
+        <StopB>დიდი დიღმის IV მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215989</Id>
+        <LongName>წმინდა ბარბარეს უბანი - ბარათაშვილის ქ . (კონკა)</LongName>
+        <RouteNumber>55</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>წმინდა ბარბარეს უბანი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216001</Id>
+        <LongName>ორხევი - მ/ს ისანი</LongName>
+        <RouteNumber>56</RouteNumber>
+        <StopA>მ/ს "ისანი"</StopA>
+        <StopB>ორხევი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>007414</Color>
+        <Id>R87</Id>
+        <LongName>კრწანისის ქუჩა - სამგორის ქ</LongName>
+        <RouteNumber>57</RouteNumber>
+        <StopA>სამგორის ქ</StopA>
+        <StopB>კრწანისის ქუჩა </StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R5869</Id>
+        <LongName>ილია ჭავჭავაძის გამზირი (ვაკე) - ბარათაშვილის ქ.</LongName>
+        <RouteNumber>58</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>ვაკის სასაფლაო</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215998</Id>
+        <LongName>ბარათაშვილის ქ. - ზაარბრიუკენი მ-ნ - ვაკე - ბაგები</LongName>
+        <RouteNumber>59</RouteNumber>
+        <StopA>ვაკე - ბაგები</StopA>
+        <StopB>ზაარბრიუკენის მოედანი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216010</Id>
+        <LongName>მ/ს "ღრმაღელე"-გადასასვლელი ხიდი</LongName>
+        <RouteNumber>60</RouteNumber>
+        <StopA>გადასასვლელი ხიდი</StopA>
+        <StopB>მ/ს ღრმაღელე</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216007</Id>
+        <LongName>ბარათაშვილის ქ. - ვაკე-ბაგები</LongName>
+        <RouteNumber>61</RouteNumber>
+        <StopA>ბაგები-ვაკე</StopA>
+        <StopB>ბარათაშვილის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216004</Id>
+        <LongName>ზღვის უბნის III მ/რ, IV კვ - სადგურის მოედანი</LongName>
+        <RouteNumber>62</RouteNumber>
+        <StopA>სადგურის მოედანი 2</StopA>
+        <StopB>ზღვის უბნის III მ/რ, IV კვ </StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R5896</Id>
+        <LongName>სოფელი თხინვალი - მ/ს დელისი</LongName>
+        <RouteNumber>63</RouteNumber>
+        <StopA>მ/ს დელისი</StopA>
+        <StopB>სოფელი თხინვალი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>007414</Color>
+        <Id>R373</Id>
+        <LongName>ცაცა ამირეჯიბის ქ - სადგური ველი</LongName>
+        <RouteNumber>64</RouteNumber>
+        <StopA>სადგური ველი</StopA>
+        <StopB>ცაცა ამირეჯიბის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216022</Id>
+        <LongName>დოლიძის ქ. - სადგურის მოედანი</LongName>
+        <RouteNumber>65</RouteNumber>
+        <StopA>სადგურის მოედანი 1</StopA>
+        <StopB>დოლიძის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216025</Id>
+        <LongName>შატბერაშვილის ქ. - სადგურის მოედანი</LongName>
+        <RouteNumber>66</RouteNumber>
+        <StopA>სადგურის მოედანი 1</StopA>
+        <StopB>შატბერაშვილის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R377</Id>
+        <LongName>უშაკოვის ქ - სამგორის ქ.</LongName>
+        <RouteNumber>67</RouteNumber>
+        <StopA>სამგორის ქ.</StopA>
+        <StopB>უშაკოვის ქ </StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216013</Id>
+        <LongName>9 ძმის ქ. -ცაიშის ქ. - სადგურის მოედანი</LongName>
+        <RouteNumber>68</RouteNumber>
+        <StopA>სადგურის მოედანი 1</StopA>
+        <StopB>ცაიშის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R215899</Id>
+        <LongName>მ/ს "დიდუბე" (ქვედა) - მუხათგვერდის სასაფლაო</LongName>
+        <RouteNumber>69</RouteNumber>
+        <StopA>მუხათგვერდის სასაფლაო</StopA>
+        <StopB>მ/ს დიდუბე</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216016</Id>
+        <LongName>ბიჭვინთის ქ. (ავჭალა) - გადასასვლელი ხიდი</LongName>
+        <RouteNumber>70</RouteNumber>
+        <StopA>გადასასვლელი ხიდი</StopA>
+        <StopB>ბიჭვინთის ქ. (ავჭალა)</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R217415</Id>
+        <LongName>ვარკეთილის IV მ/რ - ბარათაშვილის ქ . (კონკა)</LongName>
+        <RouteNumber>71</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>ვარკეთილი 3 IV მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216037</Id>
+        <LongName>ნაკადულის ქ . - წმინდა ბარბარეს უბანი</LongName>
+        <RouteNumber>72</RouteNumber>
+        <StopA>წმინდა ბარბარეს უბანი</StopA>
+        <StopB>ნაკადულის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216040</Id>
+        <LongName>გლდანულა - მ/ს "ახმეტელის თეატრი"</LongName>
+        <RouteNumber>73</RouteNumber>
+        <StopA>მ/ს "ახმეტელის თეატრი"</StopA>
+        <StopB>გლდანულა</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R5934</Id>
+        <LongName>მონასტრის ქუჩა - მ/ს სარაჯიშვილი</LongName>
+        <RouteNumber>74</RouteNumber>
+        <StopA>მ/ს სარაჯიშვილი</StopA>
+        <StopB>წყალსადენის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216043</Id>
+        <LongName>ზღვის უბნის III მ/რ, IV კვ - მ/ს "სარაჯიშვილი"</LongName>
+        <RouteNumber>75</RouteNumber>
+        <StopA>მ/ს სარაჯიშვილი</StopA>
+        <StopB>ზღვის უბნის III მ/რ, IV კვ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R5956</Id>
+        <LongName>მუხიანის IV ბ მ/რ - მ/ს ახმეტელის თეატრი</LongName>
+        <RouteNumber>76</RouteNumber>
+        <StopA>მ/ს "ახმეტელის თეატრი"</StopA>
+        <StopB>მუხიანის IV ბ მ/რ </StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216028</Id>
+        <LongName>ტუბდისპანსერი - სადგურის მოედანი 1</LongName>
+        <RouteNumber>77</RouteNumber>
+        <StopA>სადგურის მოედანი 1</StopA>
+        <StopB>ტუბდისპანსერი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216031</Id>
+        <LongName>ზემო ვაკე - სადგურის მოედანი 1</LongName>
+        <RouteNumber>78</RouteNumber>
+        <StopA>სადგურის მოედანი 1</StopA>
+        <StopB>ზემო ვაკე</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216034</Id>
+        <LongName>მუხიანის III მ/რ - მ/ს "ახმეტელის თეატრი"</LongName>
+        <RouteNumber>79</RouteNumber>
+        <StopA>მ/ს "ახმეტელის თეატრი"</StopA>
+        <StopB>მუხიანის III მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216058</Id>
+        <LongName>
+            კრწანისის ქ.-ორთაჭალის ქ. - ბარათაშვილის ქ . (კონკა)
+        </LongName>
+        <RouteNumber>80</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>ორთაჭალის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R7593</Id>
+        <LongName>დაბა კიკეთი - დაბა წყნეთი</LongName>
+        <RouteNumber>81</RouteNumber>
+        <StopA>წყნეთი</StopA>
+        <StopB>კიკეთი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216061</Id>
+        <LongName>წყნეთი-ახალდაბა - მ/ს დელისი</LongName>
+        <RouteNumber>82</RouteNumber>
+        <StopA>მ/ს დელისი</StopA>
+        <StopB>წყნეთი-ახალდაბა</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R10855</Id>
+        <LongName>ბარათაშვილის ქ.- მ/ს "დელისი"</LongName>
+        <RouteNumber>83</RouteNumber>
+        <StopA>მ/ს დელისი</StopA>
+        <StopB>ბარათაშვილის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216049</Id>
+        <LongName>პატარა დიღომი - სადგურის მოედანი 1</LongName>
+        <RouteNumber>84</RouteNumber>
+        <StopA>სადგურის მოედანი 1</StopA>
+        <StopB>პატარა დიღომი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216046</Id>
+        <LongName>საბურთალო - ვაკე - ჭავჭავაძის გამზირი 41</LongName>
+        <RouteNumber>85</RouteNumber>
+        <StopA> საბურთალო - ვაკე</StopA>
+        <StopB> საბურთალო - ვაკე</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216055</Id>
+        <LongName>მუხიანის III მ/რ - სადგურის მოედანი</LongName>
+        <RouteNumber>86</RouteNumber>
+        <StopA>სადგურის მოედანი 1</StopA>
+        <StopB>მუხიანის III მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216052</Id>
+        <LongName>ბარათაშვილის ქ. - საბურთალო-ვაკე</LongName>
+        <RouteNumber>87</RouteNumber>
+        <StopA>ბარათაშვილის ქ. - საბურთალო-ვაკე</StopA>
+        <StopB>ბარათაშვილის ქ. - საბურთალო-ვაკე</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216073</Id>
+        <LongName>ნუცუბიძის პლატო IV მ/რ - ბარათაშვილის ქ.</LongName>
+        <RouteNumber>88</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>ნუცუბიძის პლატო IV-II მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R13420</Id>
+        <LongName>მ/ს დიდუბე - მ/ს სახელმწიფო უნივერსიტეტი</LongName>
+        <RouteNumber>89</RouteNumber>
+        <StopA>ვაჟა-ფშაველას VI მ/რ</StopA>
+        <StopB>მ/ს დიდუბე</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216079</Id>
+        <LongName>ოქროყანა - ბარათაშვილის ქ.</LongName>
+        <RouteNumber>90</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>ოქროყანა</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216076</Id>
+        <LongName>მ/ს "ავლაბარი" - გოთუას ქ.</LongName>
+        <RouteNumber>91</RouteNumber>
+        <StopA>გოთუას ქ.</StopA>
+        <StopB>გორკის ქ. - მ/ს ავლაბარი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216064</Id>
+        <LongName>სადგურის მოედანი - სახ. უნივერსიტეტი მ/კ</LongName>
+        <RouteNumber>92</RouteNumber>
+        <StopA>სახ.უნივერსიტეტი მ/კ</StopA>
+        <StopB>სადგურის მოედანი 1</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216070</Id>
+        <LongName>ზღვის უბნის III მ/რ, IV კვ - მ/ს "დიდუბე" (ზედა)</LongName>
+        <RouteNumber>94</RouteNumber>
+        <StopA>მ/ს დიდუბე (ზედა)</StopA>
+        <StopB>ზღვის უბნის III მ/რ. </StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216067</Id>
+        <LongName>მუხიანის III მ/რ - ბარათაშვილის ქ.</LongName>
+        <RouteNumber>95</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>მუხიანის III მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216091</Id>
+        <LongName>ნუცუბიძის V მ/რ - მ/ს "დელისი"</LongName>
+        <RouteNumber>99</RouteNumber>
+        <StopA>მ/ს დელისი</StopA>
+        <StopB>ნუცუბიძის V მ/რ</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216088</Id>
+        <LongName>აგრარულის საერთო საცხოვრებელი - ვარკეთილის IV მ/რ</LongName>
+        <RouteNumber>101</RouteNumber>
+        <StopA>ვარკეთილის IV მ/რ</StopA>
+        <StopB>აგრარულის საერთო საცხოვრებელი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216082</Id>
+        <LongName>
+            №6-ე სასჯელ-აღსრულების დაწესებულება - ბარათაშვილის ქ . (კონკა)
+        </LongName>
+        <RouteNumber>102</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>№6-ე სასჯელ-აღსრულების დაწესებულება</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216085</Id>
+        <LongName>ტაბახმელა - ბარათაშვილის ქ.</LongName>
+        <RouteNumber>103</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>ტაბახმელა</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216112</Id>
+        <LongName>სოფელი დიღომი - მ/ს "დიდუბე"</LongName>
+        <RouteNumber>104</RouteNumber>
+        <StopA>მ/ს დიდუბე</StopA>
+        <StopB>სოფ. დიღომი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216106</Id>
+        <LongName>ბარათაშვილის ქ. - კიკეთი</LongName>
+        <RouteNumber>106</RouteNumber>
+        <StopA>კიკეთი</StopA>
+        <StopB>ბარათაშვილის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216109</Id>
+        <LongName>სოფ. თხინვალი-სოფ. ლისი - მ/ს "დელისი"</LongName>
+        <RouteNumber>107</RouteNumber>
+        <StopA>მ/ს დელისი</StopA>
+        <StopB>წოდორეთი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216100</Id>
+        <LongName>სოფ. გლდანი - მ/ს "ახმეტელის თეატრი"</LongName>
+        <RouteNumber>108</RouteNumber>
+        <StopA>მ/ს "ახმეტელის თეატრი"</StopA>
+        <StopB>სოფ. გლდანი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216103</Id>
+        <LongName>სოფ. დიღომი - მ/ს "დიდუბე"</LongName>
+        <RouteNumber>109</RouteNumber>
+        <StopA>მ/ს დიდუბე</StopA>
+        <StopB>სოფ. დიღომი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216094</Id>
+        <LongName>მახათას მთა - გადასასვლელი ხიდი</LongName>
+        <RouteNumber>110</RouteNumber>
+        <StopA>გადასასვლელი ხიდი</StopA>
+        <StopB>მახათას მთა</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216115</Id>
+        <LongName>შინდისი - ბარათაშვილის ქ.</LongName>
+        <RouteNumber>112</RouteNumber>
+        <StopA>ბარათაშვილის ქ.</StopA>
+        <StopB>შინდისი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216124</Id>
+        <LongName>ზაჰესი - მ/ს "დიდუბე" (ქვედა)</LongName>
+        <RouteNumber>121</RouteNumber>
+        <StopA>მ/ს დიდუბე (ქვედა)</StopA>
+        <StopB>ზაჰესი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216121</Id>
+        <LongName>მუჯირიშვილის ქ. - სადგურის მოედანი</LongName>
+        <RouteNumber>122</RouteNumber>
+        <StopA>სადგურის მოედანი 1</StopA>
+        <StopB>მუჯირიშვილის ქუჩა</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216118</Id>
+        <LongName>მ/ს "რუსთაველი" - მთაწმინდის პარკი</LongName>
+        <RouteNumber>124</RouteNumber>
+        <StopA>მთაწმინდის პარკი</StopA>
+        <StopB>მ/ს რუსთაველი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R9231</Id>
+        <LongName>სადგურის მოედანი - აეროპორტი</LongName>
+        <RouteNumber>137</RouteNumber>
+        <StopA>აეროპორტი $A</StopA>
+        <StopB>სადგურის მოედანი 1</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216127</Id>
+        <LongName>ბარათაშვილის ქ. - პოლიტკოვსკაიას ქ.</LongName>
+        <RouteNumber>140</RouteNumber>
+        <StopA>პოლიტკოვსკაიას ქ.</StopA>
+        <StopB>ბარათაშვილის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R216130</Id>
+        <LongName>ბარათაშვილის ქ. - სახ. უნივერსიტეტი მ/კ</LongName>
+        <RouteNumber>150</RouteNumber>
+        <StopA>სახ.უნივერსიტეტის მ/კ</StopA>
+        <StopB>ბარათაშვილის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R13235</Id>
+        <LongName>
+            მ/ს "ვარკეთილი"- შუამთის ქუჩა (N117-ე საჯარო სკოლა)
+        </LongName>
+        <RouteNumber>152</RouteNumber>
+        <StopA>შუამთის ქუჩა</StopA>
+        <StopB>მ/ს ვარკეთილი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R13339</Id>
+        <LongName>მ/ს "ახმეტელი"-N175 საჯარო სკოლა</LongName>
+        <RouteNumber>153</RouteNumber>
+        <StopA>მუხიანის III მ/რ</StopA>
+        <StopB>მ/ს ახმეტელის</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R13280</Id>
+        <LongName>ხიზანიშვილის ქუჩა N3-ის მიმდებარედ-N177 სკოლა</LongName>
+        <RouteNumber>154</RouteNumber>
+        <StopA>177-ე სკოლა</StopA>
+        <StopB>ხიზანიშვილის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R13297</Id>
+        <LongName>მ/ს "სამგორი" - N103-საშ.სკოლა</LongName>
+        <RouteNumber>155</RouteNumber>
+        <StopA>103-ე საჯარო სკოლა</StopA>
+        <StopB>მ/ს სამგორი</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R13332</Id>
+        <LongName>
+            მ/ს "დიდუბე" (ქვედა) - პაიჭაძის ქუჩა #38/5 (N147 საჯარო სკოლა)
+        </LongName>
+        <RouteNumber>157</RouteNumber>
+        <StopA>პაიჭაძის ქ.</StopA>
+        <StopB>მ/ს დიდუბე</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R10405</Id>
+        <LongName>ჭონქაძის ქ. - მთაწმინდის პარკი</LongName>
+        <RouteNumber>170</RouteNumber>
+        <StopA>მთაწმინდის პარკი</StopA>
+        <StopB>ჭონქაძის ქ.</StopB>
+        <Type>bus</Type>
+    </Route>
+    <Route>
+        <Color>11518A</Color>
+        <Id>R1581</Id>
+        <LongName>მ/ს "ახმეტელის თეატრი" - მ/ს "ვარკეთილი"</LongName>
+        <RouteNumber>222</RouteNumber>
+        <StopA>ღამის ავტობუსი</StopA>
+        <StopB>ღამის ავტობუსი</StopB>
+        <Type>bus</Type>
+    </Route>
+</routeInfoes>
